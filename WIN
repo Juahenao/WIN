@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="" tv-test="CO.m3u"
+#EXTINF:-1, Win3
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=OKGjfFXq4bBObcE_lfjoAQ&e=1628058702
+#EXTINF:-1, Win5
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/asx85my9.m3u8?s=pRwEn19w-lieiOSxYlsDKw&e=1628058705
+#EXTINF:-1, Win6
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=rSWUyIlhHUoHTrcnATTJ5A&e=1628058846
+#EXTINF:-1, Win8
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/asx85my9.m3u8?s=e19onMAwdxUa8PJ0970FmQ&e=1628058851
+#EXTINF:-1, Win9
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/gyrg3b.m3u8?s=sb4gUtwxbJzkIf66Pv_nHw&e=1628058980
+#EXTINF:-1, Win12
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=SHeTMGjhAKc3r2vzMMtHOw&e=1628059091
+#EXTINF:-1, Win15
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=KPeNL-0LqMC1c3xh1JtXOg&e=1628059215
